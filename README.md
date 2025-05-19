@@ -13,7 +13,6 @@ This is a basic C++ program that simulates a password brute-force attack using a
 - `password_cracker.cpp` - Main C++ source file.
 - `wordlist.txt` - Sample list of common passwords.
 - `README.md` - Project documentation.
-- `LICENSE` - MIT License.
 
 ## 🛠 Build Instructions
 
